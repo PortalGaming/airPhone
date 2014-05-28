@@ -6,3 +6,5 @@ A Go pkg with all the logic used for the **Airphone Library**. You can find the 
 Don't hesitate contact me in case you have any questions [by mail](mailto:contact@glendc.com).
 
 Bugs and other kind of issues should all be reported via [this issue tracker](https://github.com/GlenDC/AirPhoneLib/issues).
+
+![alt tag](logo.png)
