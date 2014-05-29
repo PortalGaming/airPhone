@@ -7,4 +7,4 @@ Don't hesitate contact me in case you have any questions [by mail](mailto:contac
 
 Bugs and other kind of issues should all be reported via [this issue tracker](https://github.com/PortalGaming/AirPhoneLib/issues).
 
-![alt tag](logo.png)
+[![alt tag](logo.png)](https://github.com/PortalGaming)
